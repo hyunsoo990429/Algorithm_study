@@ -5,3 +5,4 @@
 | main | 2557 | [2557.cpp](src/main/2557.cpp) | 2025-10-20 |
 | main | 2439 | [2439.cpp](src/main/2439.cpp) | 2025-10-20 |
 | main | 2439 | [2439.cpp](src/refactor/2439.cpp) | 2025-10-20 |
+| refactor | 2439 | [2439.cpp](src/refactor/2439.cpp) | 2025-10-20 |
