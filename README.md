@@ -3,6 +3,4 @@
 | 구분 | 문제번호 | 소스 | 날짜 |
 |---|---|---|---|
 | main | 2439 | [2439.cpp](src/main/2439.cpp) | 2025-10-20 |
-| main | 2439 | [2439.cpp](src/refactor/2439.cpp) | 2025-10-20 |
-| refactor | 2439 | [2439.cpp](src/refactor/2439.cpp) | 2025-10-20 |
 | refactor | 2439 | [2439.cpp](src/refactor/2439.cpp) | 2025-10-20 |
