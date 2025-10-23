@@ -9,3 +9,4 @@
 | main | 5597 | [5597.cpp](src/main/5597.cpp) | 2025-10-24 |
 | main | 3052 | [3052.cpp](src/main/3052.cpp) | 2025-10-24 |
 | main | 10811 | [10811.cpp](src/main/10811.cpp) | 2025-10-24 |
+| main | 1546 | [1546.cpp](src/main/1546.cpp) | 2025-10-24 |
