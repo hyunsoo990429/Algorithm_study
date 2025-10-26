@@ -18,3 +18,4 @@
 | main | 2675 | [2675.cpp](src/main/2675.cpp) | 2025-10-25 |
 | main | 1152 | [1152.cpp](src/main/1152.cpp) | 2025-10-26 |
 | main | 2908 | [2908.cpp](src/main/2908.cpp) | 2025-10-26 |
+| main | 5622 | [5622.cpp](src/main/5622.cpp) | 2025-10-26 |
