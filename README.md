@@ -27,11 +27,4 @@
 | main | 2941 | [2941.cpp](src/main/2941.cpp) | 2025-10-28 |
 | main | 1316 | [1316.cpp](src/main/1316.cpp) | 2025-10-28 |
 | main | 25206 | [25206.cpp](src/main/25206.cpp) | 2025-10-28 |
-<<<<<<< HEAD
-| main | 2444 | [2444.cpp](src/main/2444.cpp) | 2025-10-28 |
-| refactor | 2444 | [2444.cpp](src/refactor/2444.cpp) | 2025-10-28 |
-| main | 2444 | [2444.cpp](src/main/2444.cpp) | 2025-10-28 |
-=======
 
->>>>>>> 5197698ca41f685400388b0c595d27a7ccf86d58
-| main | 2444 | [2444.cpp](src/main/2444.cpp) | 2025-10-28 |
