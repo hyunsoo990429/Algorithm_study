@@ -33,4 +33,3 @@
 | main | 10798 | [10798.cpp](src/main/10798.cpp) | 2025-10-29 |
 | main | 2563 | [2563.cpp](src/main/2563.cpp) | 2025-10-29 |
 | main | 2309 | [2309.cpp](src/main/2309.cpp) | 2025-11-01 |
-| refactor | 2309 | [2309.cpp](src/refactor/2309.cpp) | 2025-11-01 |
